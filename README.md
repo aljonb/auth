@@ -1,3 +1,5 @@
+Fast Google Social sign-in set up while keeping a nextjs project completely bare bones
+
 run the following commands for Google social sign in functionality
 
 npm install
